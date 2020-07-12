@@ -1,0 +1,1 @@
+# ubuntu-adoptopenjdk-8
